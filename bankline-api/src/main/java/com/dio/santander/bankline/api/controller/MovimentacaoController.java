@@ -17,7 +17,7 @@ import java.net.URI;
 import java.util.List;
 
 @RestController
-@RequestMapping("/movimentacaoes")
+@RequestMapping("/movimentacoes")
 @AllArgsConstructor
 public class MovimentacaoController {
 
